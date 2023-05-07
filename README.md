@@ -1,1 +1,1 @@
-# CLIP-Vision-Transformer-Approach-Melanoma-Detection
+Vision-Transformer-Approach-Melanoma-Detection
